@@ -89,7 +89,11 @@ section p {
     margin-left: 10px;
 
 }
-
+.my-favorite-channels ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 13px;
+}
 .my-favorite-technologies ul {
     display: flex;
     flex-wrap: wrap;
