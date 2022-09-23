@@ -14,6 +14,7 @@ font-family: 'Roboto', sans-serif;*/
 
 body {
     background: linear-gradient(175deg, rgb(80, 52, 135) 0%, rgb(61, 61, 67) 100%);
+    
 }
 
 header {
@@ -55,7 +56,6 @@ header p {
 
 
 .main-container {
-    height: 100vh;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -116,7 +116,24 @@ section p {
 }
 .my-favorite-channels ul li img:hover {
     transform: scale(1.1);
+    
 }
+
+.social-networks-list ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 13px;
+}
+.social-networks-list svg{
+    margin-left: 10px;
+    transition: .4s;
+}
+.social-networks-list svg:hover{
+    transform: scale(1.1); 
+    
+}
+
+
 /*animation*/
 
 
@@ -132,6 +149,16 @@ section:nth-child(1) {
 
 section:nth-child(2){
     animation: fromTop 1s .8s backwards;
+    /*animacao - tempo da animação - delay pra começar a animação - é como se colocasse as animações do keyfram dentro desse seletor */
+}
+
+section:nth-child(3){
+    animation: fromTop 1s 1.2s backwards;
+    /*animacao - tempo da animação - delay pra começar a animação - é como se colocasse as animações do keyfram dentro desse seletor */
+}
+
+section:nth-child(4){
+    animation: fromTop 1s 1.6s backwards;
     /*animacao - tempo da animação - delay pra começar a animação - é como se colocasse as animações do keyfram dentro desse seletor */
 }
 

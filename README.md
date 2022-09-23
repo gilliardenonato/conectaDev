@@ -1,19 +1,19 @@
 <h1 align="center">
-🌳Linktree
+🚀ConectaDev
 </h1>
 
-![preview](./.github/preview.png)
+![preview](./assets/img/screenshot/screencapture-127-0-0-1-5500-index-html-2022-09-22-09_42_40.png)
 
 
-> ## Site simples para juntar todos os meus perfis de redes sociais em um só lugar.
+## 💻 Tecnologias
 
-#
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-# 💡Sobre o projeto
-## uma alternativa gratuita ao site Linktree. 
-#
-
-## 🛠 tecnologias
 - HTML
 - CSS
-- Git e Github
+
+##  Projeto
+
+CONECTADEV é um desafio extra do projeto NLW eSports desenvolvido durante a **[Next Level Week eSports](https://nextlevelweek.com/)**.
+
+Você pode visualizar o projeto em funcionamento através do link abaixo:
