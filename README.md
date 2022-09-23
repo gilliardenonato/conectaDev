@@ -17,3 +17,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 CONECTADEV é um desafio extra do projeto NLW eSports desenvolvido durante a **[Next Level Week eSports](https://nextlevelweek.com/)**.
 
 Você pode visualizar o projeto em funcionamento através do link abaixo:
+- **[ConectaDev](https://conecta-dev-zeta.vercel.app/)**
